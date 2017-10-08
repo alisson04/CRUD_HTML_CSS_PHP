@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+label {
+    display: inline-block;
+    width: 90px;
+}
+
+fieldset#usuario{
+    background: url("../_imagens/icone-contato.png") no-repeat 95% 95%;
+}
+fieldset{
+    border-color: #cecece;
+    margin: 20px;
+}
